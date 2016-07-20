@@ -21,4 +21,5 @@ regions:
 
 libraries:
   - 'd8theme/global-styling'
+  - 'd8theme/global-scripts'
   - 'd8theme/bootstrap-scripts'
